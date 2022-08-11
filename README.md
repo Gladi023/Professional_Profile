@@ -14,11 +14,11 @@ https://gladi023.github.io/Week-2-Homework/
 
 ## Usage
 After deploying the website the user can click on the top sections: "   About Me", "Work", and "Contact". As shown below:
-![Screenshot of first section of the website](Assets/images/part1.png)
+![Screenshot of first section of the website](./assets/images/part1.png)
 
 The sections at the top are linked to the bottom sections that corresppond to them as shown below:
-![Screenshot of second section of website](Assets/images/part2.png)
-![Screenshot of the third section of the website](Assets/images/part3.png)
+![Screenshot of second section of website](./assets/images/part2.png)
+![Screenshot of the third section of the website](./assets/images/part3.png)
 
 ## Credits
 The original material that is included in the referenced websitres reviewed belongs to the respective companies. 
