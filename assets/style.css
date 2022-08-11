@@ -1,5 +1,5 @@
 * {
-    background-image: url(../images/background\ .jpg);
+    background-image: url(./images/background\ .jpg);
     background-size: cover;
     background-position: center;
     margin: 0;
@@ -14,7 +14,7 @@ body {
 /* header styling */
 nav {
     padding: 20px 35px;
-    background-image: url(../images/banner1.png);
+    background-image: url(./images/banner1.png);
     height: 312px;
     width: 1298px;
 }
